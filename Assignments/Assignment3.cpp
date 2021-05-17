@@ -1,6 +1,4 @@
 //Name: Jake Tremblay
-//Student ID: 200633568
-//Email: tremb008@cougars.csusm.edu
 //Selection, Bubble, Insertion, Quick, and Merge Sort
 
 #include <iostream>
