@@ -1,6 +1,4 @@
 //Name: Jake Tremblay
-//Student ID: 200633568
-//Email: tremb008@cougars.csusm.edu
 //HeapSort
 
 #include <iostream>
