@@ -14,6 +14,11 @@ struct Edge{
         adj_vtx = -1;
         next = NULL;
     }
+    
+    Edge(int vtx, Edge * n){
+        adj_vtx = vtx;
+        next = n;
+    }
 };
 
 class linkedList{
